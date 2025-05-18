@@ -1,0 +1,1 @@
+# Dotnet 8 - AWS Dynamic String
